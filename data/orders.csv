@@ -1,3 +1,4 @@
-order_id,locations
-O1,"A1,B2,B1"
-O2,"A2,B1"
+order_id,locations,order_zone
+O1,"A1,B2,B1",A
+O2,"A2,B1",B
+O3,"A4,B0",A
