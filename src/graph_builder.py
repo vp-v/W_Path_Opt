@@ -1,4 +1,5 @@
 # Adding Netwrkx library for graph operations
+from __future__ import annotations
 import networkx as nx
 import pandas as pd
 
