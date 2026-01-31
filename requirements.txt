@@ -1,7 +1,7 @@
 #Python libraries
 pandas
 networkx
-scikit-learn
+scikit-learn>=1.0
 matplotlib
 
 # For hosting the web application
