@@ -5,7 +5,7 @@ import pandas as pd
 import networkx as nx
 
 from .graph_builder import build_graph
-from .path_optimization import static_pick_path, dynamic_pick_path_greedy
+from .path_optimisation import static_pick_path, dynamic_pick_path_greedy
 from .metrics import route_cost, pct_improvement
 from .simulation import build_training_data
 from .picker_assignment import train_picker_model, assign_best_picker

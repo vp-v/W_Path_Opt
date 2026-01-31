@@ -1,1 +1,3 @@
-# Makes src a package
+"""
+Warehouse Pick Optimisation package.
+"""
