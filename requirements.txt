@@ -1,0 +1,8 @@
+Python libraries
+pandas
+networkx
+scikit-learn
+matplotlib
+
+# For hosting the web application
+streamlit
